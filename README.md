@@ -5,7 +5,12 @@ MTS Push Server from FEP to FCM by Nodejs
 Nodejs 기반 express 웹서버와 Net Socket 통신 구현.
 *참고 : https://sieon-dev.tistory.com/69
 
-1. Express Web Server and Net Socket with FEP
--Serverhttp.js
+1. Express Web Server and Net Socket with FEP  
+-Serverhttp.js  
 
-2. Packet processing(preprocession from buffer data)
+2. Packet processing(preprocession from buffer data)  
+-Service.js, FPacket.js  
+
+3. Send To FCM
+-FcmPush.js
+
