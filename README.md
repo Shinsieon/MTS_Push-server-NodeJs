@@ -11,6 +11,6 @@ Nodejs 기반 express 웹서버와 Net Socket 통신 구현.
 2. Packet processing(preprocession from buffer data)  
 -Service.js, FPacket.js  
 
-3. Send To FCM
+3. Send To FCM  
 -FcmPush.js
 
