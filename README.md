@@ -7,7 +7,7 @@ Used : Express.js, http Socket, Net Socket, MariaDB
   
 *참고 : https://sieon-dev.tistory.com/69
 
-1. Express Web Server and Net Socket with FEP  
+1. Express Web Server and Net Socket connection with FEP  
 -Serverhttp.js  
 
 2. Packet processing(preprocession from buffer data)  
